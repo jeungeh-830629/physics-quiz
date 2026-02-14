@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/physics-quiz/_next/static/chunks/66346ad2836c1601.js","/physics-quiz/_next/static/chunks/5fefea3ccdd1c88a.js","/physics-quiz/_next/static/chunks/77d2792b7dba5e63.js"],"default"]
+3:I[37457,["/physics-quiz/_next/static/chunks/66346ad2836c1601.js","/physics-quiz/_next/static/chunks/5fefea3ccdd1c88a.js","/physics-quiz/_next/static/chunks/77d2792b7dba5e63.js"],"default"]
+0:{"buildId":"7ThEc7ZGpIW-Ql9BFmN0T","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
