@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/physics-quiz/_next/static/chunks/77d2792b7dba5e63.js"],"ClientPageRoot"]
-3:I[52683,["/physics-quiz/_next/static/chunks/66346ad2836c1601.js","/physics-quiz/_next/static/chunks/5fefea3ccdd1c88a.js","/physics-quiz/_next/static/chunks/e30fe4b2ad25babb.js","/physics-quiz/_next/static/chunks/30d81bd5a0303cf8.js"],"default"]
+3:I[52683,["/physics-quiz/_next/static/chunks/66346ad2836c1601.js","/physics-quiz/_next/static/chunks/5fefea3ccdd1c88a.js","/physics-quiz/_next/static/chunks/536b779fb4364349.js","/physics-quiz/_next/static/chunks/30d81bd5a0303cf8.js"],"default"]
 6:I[97367,["/physics-quiz/_next/static/chunks/77d2792b7dba5e63.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"7ThEc7ZGpIW-Ql9BFmN0T","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/physics-quiz/_next/static/chunks/e30fe4b2ad25babb.js","async":true}],["$","script","script-1",{"src":"/physics-quiz/_next/static/chunks/30d81bd5a0303cf8.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"Prc3AeoH42UbDaIVSpQYd","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/physics-quiz/_next/static/chunks/536b779fb4364349.js","async":true}],["$","script","script-1",{"src":"/physics-quiz/_next/static/chunks/30d81bd5a0303cf8.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
